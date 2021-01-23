@@ -3,4 +3,4 @@
 
 Repositório criado como prática de aula Github.
 
-... nova alteração ... retomndo estudos!
+... nova alteração ... retomando estudos!
